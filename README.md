@@ -1,2 +1,2 @@
 # Flexturismo
-Site para portifólio.
+Aprendendo responsividade.
